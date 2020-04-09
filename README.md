@@ -12,7 +12,14 @@ This is a reboot for v3, see `./v1` for old notes.
 - [Course Home](https://course.fast.ai/)
 - [Setup GCP](https://course.fast.ai/start_gcp.html)
 
-## Setup
+## Setup (AWS Sagemaker)
+
+I am using us-east-1
+
+- Initial Start: <https://course.fast.ai/start_sagemaker.html>
+- Return to work: <https://course.fast.ai/update_sagemaker.html>
+
+## Setup (GCP)
 
 I will use GCP/imetrical. No local resources yet, maybe docker later.
 
